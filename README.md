@@ -37,4 +37,4 @@ This project was built as part of my frontend development practice ladder, focus
 
 ## 🔗 Live Preview
 
-*(Add a GitHub Pages link here if you deploy it later)*
+ https://codewithagares.github.io/morrow-cafe-landing-page/
