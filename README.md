@@ -1,10 +1,10 @@
 # ☕ Morrow Cafe — Landing Page
 ![Morrow Cafe Preview](preview.jpg)
-A responsive-in-progress cafe landing page built with HTML & CSS, featuring a custom brand identity I designed for a fictional cafe called **Morrow**.
+A responsive-in-progress cafe landing page built with HTML & CSS, featuring a custom brand identity I designed for a cafe called **Morrow**.
 
 ## 🎨 About the Project
 
-This project was built as part of my frontend development practice ladder, focused on strengthening core HTML/CSS skills — particularly Flexbox and CSS Grid — while working from a real, self-made brand identity (logo, color palette, typography, and moodboard) instead of a generic template.
+This project was built as part of my frontend development ladder, focused on strengthening core HTML/CSS skills — particularly Flexbox and CSS Grid — while working from a real, self-made brand identity (logo, color palette, typography, and moodboard) instead of a generic template.
 
 ## ✨ Sections
 
