@@ -1,5 +1,5 @@
 # ☕ Morrow Cafe — Landing Page
-![Morrow Cafe Preview](screenshots/preview.png)
+![Morrow Cafe Preview](preview.jpg)
 A responsive-in-progress cafe landing page built with HTML & CSS, featuring a custom brand identity I designed for a fictional cafe called **Morrow**.
 
 ## 🎨 About the Project
